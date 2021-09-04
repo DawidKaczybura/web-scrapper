@@ -9,13 +9,12 @@ WebScrapper
 c++
 
 
-## Metodologies
-TDD
-
 
 ## Requirements
-googletest
 cmake
+curl
+googletest
+
 
 
 ## Setup

@@ -1,3 +1,4 @@
 .vscode
 googletest/
 build/
+curl/
