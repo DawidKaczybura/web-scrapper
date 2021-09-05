@@ -2,3 +2,4 @@
 googletest/
 build/
 curl/
+lib/
